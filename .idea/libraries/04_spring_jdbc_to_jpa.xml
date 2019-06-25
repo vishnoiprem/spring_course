@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="04-spring-jdbc-to-jpa">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/04-spring-jdbc-to-jpa/Step01.zip!/" />
+      <root url="jar://$PROJECT_DIR$/04-spring-jdbc-to-jpa/Step12.zip!/" />
+      <root url="jar://$PROJECT_DIR$/04-spring-jdbc-to-jpa/Step06.zip!/" />
+      <root url="jar://$PROJECT_DIR$/04-spring-jdbc-to-jpa/Step18.zip!/" />
+      <root url="jar://$PROJECT_DIR$/04-spring-jdbc-to-jpa/Step05.zip!/" />
+      <root url="jar://$PROJECT_DIR$/04-spring-jdbc-to-jpa/Step19.zip!/" />
+      <root url="jar://$PROJECT_DIR$/04-spring-jdbc-to-jpa/Step14.zip!/" />
+      <root url="jar://$PROJECT_DIR$/04-spring-jdbc-to-jpa/Step03.zip!/" />
+      <root url="jar://$PROJECT_DIR$/04-spring-jdbc-to-jpa/Step15.zip!/" />
+      <root url="jar://$PROJECT_DIR$/04-spring-jdbc-to-jpa/Step10.zip!/" />
+      <root url="jar://$PROJECT_DIR$/04-spring-jdbc-to-jpa/Step11.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

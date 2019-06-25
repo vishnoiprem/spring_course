@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="03-spring-aop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/03-spring-aop/Step01.zip!/" />
+      <root url="jar://$PROJECT_DIR$/03-spring-aop/Step03.zip!/" />
+      <root url="jar://$PROJECT_DIR$/03-spring-aop/Step07.zip!/" />
+      <root url="jar://$PROJECT_DIR$/03-spring-aop/Step09.zip!/" />
+      <root url="jar://$PROJECT_DIR$/03-spring-aop/Step06.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
